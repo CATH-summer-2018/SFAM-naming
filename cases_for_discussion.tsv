@@ -1,4 +1,5 @@
 sfam_id	description	status
-Status Codes	Awaiting discussion - A, Discussed - D	
+Status Codes	Awaiting discussion - A, Discussed - D
 3.30.70.3390	Contains 1 PDB structure and no sequences	A
 3.30.1490.460	3 PDBs say that is a biotin carboxylase B-domain, SwissProt indicates tRNA synthase	A
+1.20.1260.70  6 PDBs agree that this is a gef-domain, while sequences propose either uncharachterised or other things A
