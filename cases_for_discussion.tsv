@@ -3,4 +3,4 @@ Status Codes	Awaiting discussion - A, Discussed - D
 3.30.70.3390	Contains 1 PDB structure and no sequences	A
 3.30.1490.460	3 PDBs say that is a biotin carboxylase B-domain, SwissProt indicates tRNA synthase	A
 1.20.1260.70	6 PDBs agree that this is a gef-domain, while sequences propose either uncharachterised or other things	A
-1.10.286.100 Poor domain structure. Seems like there has been incorrect chopping of this protein since one of the alpha helices comprising this domain has not been included completely and it appears as to be part of two different domains. 
+1.10.286.100	Poor domain structure. Seems like there has been incorrect chopping of this protein since one of the alpha helices comprising this domain has not been included completely and it appears as to be part of two different domains.	A
