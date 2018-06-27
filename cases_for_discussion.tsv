@@ -5,3 +5,4 @@ Status Codes	Awaiting discussion - A, Discussed - D
 1.20.1260.70	6 PDBs agree that this is a gef-domain, while sequences propose either uncharachterised or other things	A
 1.10.286.100	Poor domain structure. Seems like there has been incorrect chopping of this protein since one of the alpha helices comprising this domain has not been included completely and it appears as to be part of two different domains.	A
 1.20.890.70	The 3 crystal structures that form the domain are missing quite a significant part of the structure, compared to the article.	A
+1.20.120.710 Suggested name coincides with 1.10.150.720; pfam and uniprot give the same keywords and family A
